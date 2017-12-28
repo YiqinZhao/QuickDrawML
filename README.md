@@ -2,6 +2,8 @@
 
     This repo holds the final project of my class, classical problem modeling.
 
+For original final project paper, please click [here](https://cloud.coden.hk/index.php/s/nkbDzmy32MoZWb9).
+
 In this repo, I implemented three training ways(**kNN**, **SVM**, **CNN**) for `Google Quick Draw` dataset.
 
 I only use 5000 rows of data picked from 5 class of the original dataset. They are `Apple`, `Banana`, `Blueberry`, `Pineapple`, `Strawberry`.
